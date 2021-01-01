@@ -1,0 +1,11 @@
+# ./.tmuxinator.yml
+
+name: fire-archmage-blog
+root: ./
+
+windows:
+  - editor:
+      layout: 1300,278x61,0,0[278x51,0,0,0,278x9,0,52,1]
+      panes:
+        -
+        - 

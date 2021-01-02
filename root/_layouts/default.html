@@ -2,13 +2,38 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.6.3/dist/css/foundation.min.css" integrity="sha256-ogmFxjqiTMnZhxCqVmcqTvjfe1Y/ec4WaRj/aQPvn+I=" crossorigin="anonymous">
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <title>{{ page.title }}</title>
   </head>
   <body>
-    {% include navigation.html %}
-    {{ content }}
+	  <div class="grid-x small-12 medium-12 large-12">
+
+		<!-- General website header -->
+		<div class="cell">
+			<div class="grid-x">
+				<div class="cell small-12 medium-4 large-4">
+					The fire Archmage Website
+				</div>
+				<div class="cell small-12 medium-8 large-8">
+					{% include navigation.html %}
+				</div>
+			</div>
+		</div>
+
+		<!-- Content -->
+		<div class="cell">
+		{{ content }}
+		</div>
+
+		<!-- Footer -->
+		<div class="cell">
+			<h1>Footer</h1>
+		</div>
+
+	</div>
 
 	<script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.6.3/dist/js/foundation.min.js" integrity="sha256-pRF3zifJRA9jXGv++b06qwtSqX1byFQOLjqa2PTEb2o=" crossorigin="anonymous"></script>
   </body>

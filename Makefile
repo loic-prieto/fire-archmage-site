@@ -1,11 +1,7 @@
-build-environment:
-	docker build -t archmage-blog:dev .
-
-run-environment:
-	docker run -ti --rm -v $(PWD):/blog -p 4000:4000 --name archmage-blog archmage-blog:dev
+SITE_DIR=$(PWD)/root
 
 build-site:
-	cd root && bundle exec jekyll build
+	docker run -ti --rm -v ${SITE_DIR}:/srv/jekyll jekyll/jekyll:latest jekyll build
 
 serve-site:
-	cd root && bundle exec jekyll serve
+	docker run -ti --rm -v ${SITE_DIR}:/srv/jekyll -p 4000:4000 --name archmage-blog jekyll/jekyll:latest jekyll serve --watch --drafts

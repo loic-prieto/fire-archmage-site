@@ -1,0 +1,40 @@
+Sections for the website:
+
+Warhammer Stuff
+	40k
+		Armies
+			Mechanicus
+			Space Marines
+				White Scars
+			Chaos
+				Word Bearers
+				Alpha Legion
+				Death Guard
+	AoS
+		Setting
+			The continent of Calyster
+				Introduction
+				Nations of Calyster
+					Wastes of Meredia
+					Kingdom of Aras
+					The Silver Covenant
+					The Republic of Varna
+		Armies
+			Chaos
+				Blades of Khorne
+					Waste walkers of Meredia
+			Death
+				Ossiarch Bonereapers
+	The Blog
+
+The 4X Framework
+	Introduction
+	Development Guide
+	Plugins
+		Core Framework
+		4X Standard
+		4X Standard - Civilization
+	Terminal Client
+	Blog
+		
+About me

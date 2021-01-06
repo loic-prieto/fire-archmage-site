@@ -3,7 +3,7 @@ title: AOS Setting - The southern continent of Calyster
 layout: default
 ---
 
-#The continent of Calyster
+# The continent of Calyster
 
 Colonized during the Age of Myth, out of the embers of the World that was, the southern isle-continent of Calyster was for a time one of the jewels of Aqshy, a varied collection of kingdoms and nations with many cultures and religions, sharing the continent in relative peace, some times broken by skirmishes or even wars that would be quickly settled under the guidance of the God King. For centuries, the nations of Calyster knew growth, progress and peace, trading amongst themselves and with the remote lands of the Great Parch, to the north, among many other landmasses or even worlds.
 
@@ -17,4 +17,5 @@ There is no peace among the kingdoms, only an eternity of carnage and slaughter,
 
 # Introduction to the setting
 
-The Calyster continent will be the canvas upon which I will build the lore for most of my chaos armies in Age of Sigmar, as it is described as being either completely overrun by chaos forces, or influenced by it 
+The Calyster continent will be the canvas upon which I will build the lore for most of my chaos armies in Age of Sigmar, as it is described as being either completely overrun by chaos forces, or influenced by it. The different nations allow to weave interesting and varied stories.
+

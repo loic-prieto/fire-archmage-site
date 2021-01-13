@@ -1,3 +1,5 @@
+---
+---
 <!doctype html>
 <html>
   <head>
@@ -7,19 +9,9 @@
     <title>Age of Sigmar - Settings - Calyster</title>
   </head>
   <body>
-	  <div class="grid-x small-12 medium-12 large-12">
+	  {% include header_general.html %}	
 
-		<!-- General website header -->
-		<div class="cell">
-			<div class="grid-x">
-				<div class="cell small-12 medium-4 large-4">
-					The fire Archmage Website
-				</div>
-				<div class="cell small-12 medium-8 large-8">
-					{% include navigation_general.html %}
-				</div>
-			</div>
-		</div>
+	  <div class="grid-x small-12 medium-12 large-12">
 
 		<!-- Section header -->
 		<div class="cell">
@@ -30,7 +22,7 @@
 		<div class="cell">
 			<h2>The continent of Calyster</h2>
 			<p>Colonized during the Age of Myth, out of the embers of the World that was, the southern isle-continent of Calyster was for a time one of the jewels of Aqshy, a varied collection of kingdoms and nations with many cultures and religions, sharing the continent in relative peace, some times broken by skirmishes or even wars that would be quickly settled under the guidance of the God King. For centuries, the nations of Calyster knew growth, progress and peace, trading amongst themselves and with the remote lands of the Great Parch, to the north, among many other landmasses or even worlds.</p>
-			<p>The end of this golden age came not too long after the rise of Khorgos Khul, in the North. This time, the Blood God was not the architect of the Shattering, but rather the hand of the full chaos pantheon making the southern continent their playground, using its nations as unwitting pawns of the Great Game, as Civilization dwindled in Aqshy during the Red Century and the long time after that.</p>
+			<p>The end of this golden age came not too long after the rise of Khorgos Khul, in the North. This time, the Blood God was not the architect of the Shattering, but rather the hand of the full chaos pantheon making the southern continent their playground, using its nations as unwitting pawns of the Great Game, as civilization dwindled in Aqshy during the Red Century and the long time after that.</p>
 			<p>Many are the wonders of the Age of Myth lost to the ravages of the chaos gods, untold the number of libraries and recipients of knowledge forever lost to barbarism, sabotage and descendants of the great nations unable to understand any longer the treasures of their forebears.</p> 
 			<p>Now the kingdoms and proud republics of Calyster are just a remnant of the past glory, involved in perpetual wars that engulfs the whole continent. Little by little, the continent is absorbed by the chaos realms, for no army of the Grand Alliance has yet reclaimed these territories.</p> 
 			<p>There is no peace among the kingdoms, only an eternity of carnage and slaughter, and the laughter of thirsting gods.</p>
@@ -43,16 +35,30 @@
 		<div class="cell">
 			<h2>Nations of Calyster</h2>
 			<p>The following nations exist within the Continent</p>
-			<div class="grid-x small-12 medium-4 large-3 nations-grid">
-				<div class="cell">
-					<img src="assets/img/slaneesh_banner_1.jpg" class="banner" />
-					<span>Kingdom of Aras</span>
-				</div>
-				<div class="cell">
-					<img src="assets/img/meredia_banner_1.jpg" class="banner" />
-					<span>Waste Walkers of Meredia</span>
-				</div>
-			</div>	
+			<div class="grid-container">
+				<div class="grid-x grid-margin-x grid-margin-y 
+				            small-up-2 medium-up-3 large-up-4
+							text-center
+					        nations-grid">
+					<div class="cell">
+						<img src="/assets/img/slaneesh_banner_1.jpg"
+							 alt="Banner of the Kingdom of Aras" />
+						<span>Kingdom of Aras</span>
+					</div>
+					<div class="cell">
+						<img src="/assets/img/meredia_banner_1.jpg" />
+						<span>Waste Walkers of Meredia</span>
+					</div>
+					<div class="cell">
+						<img src="/assets/img/meredia_banner_1.jpg" />
+						<span>The Silver Covenants</span>
+					</div>
+					<div class="cell">
+						<img src="/assets/img/meredia_banner_1.jpg" />
+						<span>The Republic of Varna</span>
+					</div>
+				</div>	
+			</div>
 		</div>
 
 		<!-- Footer -->

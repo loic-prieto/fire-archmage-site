@@ -1,3 +1,13 @@
 ---
 ---
 @import "main";
+
+.nations-grid {
+	img {
+		width: 300px;
+		height: 300px;
+	}
+	span {
+		display: block;
+	}
+}

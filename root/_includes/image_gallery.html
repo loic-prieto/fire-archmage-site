@@ -1,0 +1,19 @@
+<div class="grid-container {{ include.css_class }}">
+	<div class="grid-x grid-margin-x grid-margin-y 
+	small-up-1 medium-up-3 large-up-4
+	text-center">
+		{% assign gallery_data = site.data[include.data_identifier] %}
+		{% capture image_field_name %}{{ include.image_field | default: image }}{% endcapture %}
+		{% capture title_field_name %}{{ include.title_field | default: title }}{% endcapture %}
+		{% for item in gallery_data %}
+			{% assign image = item[image_field_name] %}
+			{% assign title = item[title_field_name] %}
+			<div class="cell">
+				<a href="{{ item.url }}">
+					<img src="/assets/img/{{ image }}" alt="{{ title }} image" />
+				</a>
+				<a href="{{ item.url }}">{{ title }}</a>
+			</div>
+		{% endfor %}
+	</div>	
+</div>

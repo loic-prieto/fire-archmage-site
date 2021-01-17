@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		{% include foundation_html_header.html %}
+		<link rel="stylesheet" href="/assets/css/styles.css" />
+		<title>{{ page.title }}</title>
+	</head>
+	<body>
+		{% include header_general.html %}	
+
+		<div class="grid-x small-12 medium-12 large-12">
+
+			<!-- Content -->
+			<div class="cell">
+				{{ content }}
+			</div>
+
+		</div>
+
+		{% include foundation_script_loading.html %}	
+	</body>
+</html>

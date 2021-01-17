@@ -7,6 +7,8 @@ title: Wastes of Meredia
 
 ## The Ashen Wastes
 
+{% include expandable_image.html src="wastes_of_meredia_map.jpg" alt="Wastes of Meredia map" class="calyster-map"  %}
+
 The Ashen Wastes are a desolate land, covered by ruins of once great cities, unfortunate bystanders in a proxy war between two rival powers that unleashed a magical cataclysm . It was known during the Age of Myth as the Republic of Meredia, but now only ruins remain of that glorious long ended golden age, and the descendants of those enlightened and industrious people are now marauding, ignorant and barbaric tribes that serve the Blood God.
 
 ## The Republic of Meredia

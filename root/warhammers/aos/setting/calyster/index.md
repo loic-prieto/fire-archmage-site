@@ -4,6 +4,8 @@ title: AoS - Setting - Calyster
 ---
 # The continent of Calyster
 
+{% include expandable_image.html src="calyster_map_full_size.jpg" alt="Full Calyster map" class="calyster-map"  %}
+
 Colonized during the Age of Myth, out of the embers of the World that was, the southern isle-continent of Calyster was for a time one of the jewels of Aqshy, a varied collection of kingdoms and nations with many cultures and religions, sharing the continent in relative peace, some times broken by skirmishes or even wars that would be quickly settled under the guidance of the God King. For centuries, the nations of Calyster knew growth, progress and peace, trading amongst themselves and with the remote lands of the Great Parch, to the north, among many other landmasses or even worlds.
 
 The end of this golden age came not too long after the rise of Khorgos Khul, in the North. This time, the Blood God was not the architect of the Shattering, but rather the hand of the full chaos pantheon making the southern continent their playground, using its nations as unwitting pawns of the Great Game, as civilization dwindled in Aqshy during the Red Century and the long time after that.

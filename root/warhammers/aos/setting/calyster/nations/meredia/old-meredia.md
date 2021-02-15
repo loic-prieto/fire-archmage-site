@@ -1,9 +1,9 @@
 ---
 layout: aos-calyster-nations
-title: Wastes of Meredia
+title: The republic of Meredia
 ---
 
-# The wastes of Meredia
+# The Republic of Meredia
 
 ## The Ashen Wastes
 
@@ -11,7 +11,7 @@ title: Wastes of Meredia
 
 The Ashen Wastes are a desolate land, covered by ruins of once great cities, unfortunate bystanders in a proxy war between two rival powers that unleashed a magical cataclysm. It was known during the Age of Myth as the Republic of Meredia, but now only ruins remain of that glorious long ended golden age, and the descendants of those enlightened and industrious people are now marauding, ignorant and barbaric tribes that serve the Blood God.
 
-## The Republic of Meredia
+## The old Republic
 
 Once, the gigantic banners of the Republic of Meredia flapped proudly with the strong and cold winds coming down from the mountain range of Sylcar. A bastion of strength and enlightenment that radiated the light of knowledge and progress during the now long forgotten Age of Myth.
 
@@ -47,5 +47,7 @@ Desou was the first time that two armies from the Kingdom of Aras and the Silver
 
 So named the city of crossroads, for it sat at the juncture of several trade routes, connecting the eastern side of Meredia with the western side, acting as a trading post for the traders of the Republic of Varna, the Kingdom of Aras and the Silver Covenants of the east. It prided itself on being the second most important city of the republic, after Roda.
 
-Being the recipient of many invasions over its lifetime, the city had a military more than prepared to defend its territory. A strong and proud military tradition that ensured that citizens would be ready to defend themselves, as well as an industry that provided weapons and supplies, made possible with the wealth that the city's commerce enabled.
+Being the recipient of many invasions over its lifetime, the city had an army more than prepared to defend its territory. A strong and proud military tradition that ensured that citizens would be ready to defend themselves, as well as an industry that provided weapons and supplies, made possible with the wealth that the city's commerce enabled.
+
+It was from Namerle that the Great Republican Army was gathered and armed to defend Meredia when the War of the Wastes came. From this city was organised the defense of the nation. When the republican army was defeated at the place now known as the Blood Scar, it was here that it took haven, to initiate a resistance force that would try to take back the country from the conquerors.
 

@@ -51,3 +51,18 @@ Being the recipient of many invasions over its lifetime, the city had an army mo
 
 It was from Namerle that the Great Republican Army was gathered and armed to defend Meredia when the War of the Wastes came. From this city was organised the defense of the nation. When the republican army was defeated at the place now known as the Blood Scar, it was here that it took haven, to initiate a resistance force that would try to take back the country from the conquerors.
 
+
+#### Vanne
+
+Close to the southern border to the Kingdom of Aras, Vanne was a city of refinement and culture. Traders from the neighbouring kingdom would stop by Vanne on the way to Roda, to barter in the latest gossip of the court and its ludicrous fashion trends (which, in turn, would inspire their Vanne's own ludicrous fashion trends).
+
+Many inhabitants of Vanne would be immigrants from Aras that would favour the greater personal liberties that a republic could offer compared to a Kingdom, but would still feel nostalgia for the grandeur of the old kingdom, if oftentimes it would be a rose-tinted glass view of it, forgetting the reasons they chose to leave the country with time in the first place. Indeed, children and grandchildren of these immigrants would sometimes try to come back to their roots only to return after the authentic experience of living under the absolute laws and oppression of the Kingdom.
+
+The people of Vanne were proud of their history and even if it was not the richest city of the federation, or the strongest one, they could still boast about its remarkable universities, philosophers, poets and the great textile industry that provided much of the clothes, tapestries and furniture for most of the country and beyond. There were many services that would catter to the rich and refined people of the city, which tended to attract the rich class of other cities and made of Vanne a second city for most of them.
+Due to that fact, Vanne was the second political capital of the federation, and many important business and political deals would be made from the sumptous villas, restaurants and baths of the city.
+
+Vanne was quickly captured in the first stages of the War of the Wastes by the Kingdom of Aras, and the horrors that they suffered under the administration of the Kingdom would be unspeakable.
+
+#### Dilun
+
+

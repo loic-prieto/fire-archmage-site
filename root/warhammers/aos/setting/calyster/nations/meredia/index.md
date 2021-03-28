@@ -1,6 +1,6 @@
 ---
 layout: aos-calyster-nations
-title: Wastes of Meredia
+title: AoS - Setting - Calyster - Meredia
 banner_image: wastes-banner.jpg
 banner_title: The scorched volcanic land of the wastes
 ---

@@ -1,17 +1,13 @@
 ---
 layout: aos-calyster-nations
 title: Wastes of Meredia
+banner_image: old-meredia-city.jpg
+banner_title: A day in the port of Roda
 ---
 
-# The wastes of Meredia
+# The old Republic of Meredia
 
-## The Ashen Wastes
-
-{% include expandable_image.html src="wastes_of_meredia_map.jpg" alt="Wastes of Meredia map" class="calyster-map"  %}
-
-The Ashen Wastes are a desolate land, covered by ruins of once great cities, unfortunate bystanders in a proxy war between two rival powers that unleashed a magical cataclysm. It was known during the Age of Myth as the Republic of Meredia, but now only ruins remain of that glorious long ended golden age, and the descendants of those enlightened and industrious people are now marauding, ignorant and barbaric tribes that serve the Blood God.
-
-## The Republic of Meredia
+{% include expandable_image.html src="republic_of_meredia_map.jpg" alt="The Old Republic of Meredia map" class="calyster-map"  %}
 
 Once, the gigantic banners of the Republic of Meredia flapped proudly with the strong and cold winds coming down from the mountain range of Sylcar. A bastion of strength and enlightenment that radiated the light of knowledge and progress during the now long forgotten Age of Myth.
 
@@ -24,9 +20,9 @@ Not a big piece of land compared to its neighbors, the Republic always tried to 
 
 The Republic ended up in an Alliance with it’s sister republic to the north, the Republic of Varna, while playing the neighbor kingdoms of Aras and Azshijar against each other, a strategy that would prove to be its undoing, in the end.
 
-### Cities of Meredia
+## Cities of Meredia
 
-#### Roda
+### Roda
 
 Chiefly among the big cities of Meredia was the port city of Roda, made rich with the commerce that came from many different places of the realm, including the Great Parch, to the north. An intersection of cultures and religions, many were the wonders and events of culture that the citizenry could enjoy, funded by the  Houses of Commerce that were the governing body of the city. Huge markets could be found in the plazas of the city, where merchants from all over the realm would conduct their trade. 
 
@@ -35,7 +31,7 @@ As for land forces, they felt safe enough with a mercenary force and some militi
 
 After a long blockade maintained by the Royal Fleet, Roda was, in the end, the city were the fiercest clash between the two rival armies of the Kingdom of Aras and the Silver Covenants happened. Rather than losing the city, the forces of Shublai, the Everstorm wizard, from the seventh Silver Tower, unleashed an apocalyptic magical storm that burned most of the city as well as the defending army from the Kingdom of Aras. Shortly after that, a treaty was signed between the two powers, to share what remained of the country between themselves stablishing the frontier to the Reyne river.
 
-#### Desou
+### Desou
 
 An agricultural city, the lands surrounding the city were plentiful oceans of wheat and other cereals  giving the city the sobriquet of the Golden city. Not only cereals but also cattle, and all kind of animals would be farmed. The region surrounding Desou was the bread basket of the republic. Before the confederation was founded, this land would see the most amount of battles to conquer it, for it was the most fertile and rich lands that could be found in the country.
 
@@ -43,7 +39,7 @@ Safe inside the republic, the city could specialize into the agricultural indust
 
 Desou was the first time that two armies from the Kingdom of Aras and the Silver Covenants met in battle during the War of the Wastes. The whole city was burnt to the ground, sealing the fate of Meredia, cut short from it's bread basket.
 
-#### Namerle
+### Namerle
 
 So named the city of crossroads, for it sat at the juncture of several trade routes, connecting the eastern side of Meredia with the western side, acting as a trading post for the traders of the Republic of Varna, the Kingdom of Aras and the Silver Covenants of the east. It prided itself on being the second most important city of the republic, after Roda.
 

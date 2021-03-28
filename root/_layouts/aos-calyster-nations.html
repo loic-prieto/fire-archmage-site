@@ -7,7 +7,9 @@
 		<title>{{ page.title }}</title>
 	</head>
 	<body>
-		{% include header_general.html %}	
+		{% include header_general.html %}
+
+		{% include image_banner.html image=page.banner_image title=page.banner_title %}
 
 		<div class="grid-x small-12 medium-12 large-12">
 

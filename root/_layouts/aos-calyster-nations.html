@@ -13,9 +13,14 @@
 
 		<div class="grid-x small-12 medium-12 large-12">
 
+			<!-- TOC >
+			<div class="cell">
+				{% toc %}
+			</div-->
+			
 			<!-- Content -->
 			<div class="cell">
-				{{ content }}
+				{{ content | toc }}
 			</div>
 
 		</div>

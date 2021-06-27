@@ -74,4 +74,9 @@ Throughout the centuries, the cities of the republic banded together to defend t
 
 For a long time, this strategy served them well. 
 
-Garish was a man of resources and contacts, a scion of one of the most powerful Houses in Roda. A high official of the Republic, serving as a diplomat for Meredia in Zyjin. Alarmed by a build-up of the Kingdom's military forces, and what its contacts hinted to be the preparation for an invasion to the republic, 
+Garish was a man of resources and contacts, a scion of one of the most powerful Houses in Roda. A high official of the Republic, serving as a diplomat for Meredia in Zyjin. Alarmed by a build-up of the Kingdom's military forces, and what its contacts hinted to be the preparation for an invasion to the republic, the diplomat prepared a plan that would redirect those war preparations and resources or even stop them altogether.
+
+He prepared a grand espionage operation, making use of a vast network of informants and undercover agents inside the court to provide false information to High King Vetzjira about a potential attack from the Silver Covenants to the kingdom. Tensions had been running high between the two countries for decades now, and the thread would be credible enough that the king would divert its resources into preparing a defence of its realm rather than attacking the republic. And, in turn, it could use this preparation to warn the Covenant Lords of a potential attack, which would make them prepare for it, which would reinforce the information coming to the High King. Then the republic could offer itself as a peace broker, perhaps even bolstering trade between the two enemies as a way to ensure that peace, and the republic would be right in the middle of this trade.
+A risky plan but sound, in the mind of the diplomat, to both stave off the kingdom's aggression and increase the wealth of the republic.
+
+During the last decades, the monarch of Aras and the Magi Lord of the Covenants had been 

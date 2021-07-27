@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		{% include foundation_html_header.html %}
+		{% include favicon_headers.html %}
 		<link rel="stylesheet" href="/assets/css/styles.css" />
 		<title>{{ page.title }}</title>
 	</head>
@@ -13,13 +14,9 @@
 
 		<div class="grid-x small-12 medium-12 large-12">
 
-			<!-- TOC >
-			<div class="cell">
-				{% toc %}
-			</div-->
-			
 			<!-- Content -->
 			<div class="cell">
+				<h1> Index </h1>
 				{{ content | toc }}
 			</div>
 

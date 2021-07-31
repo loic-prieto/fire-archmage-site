@@ -88,8 +88,6 @@ Garish was commended by the council of the republic for handling the situation s
 
 It was with complete horror that the Republic received the news that the city of Vanne was occupied by the Executor General Sarin von Krast, commander of the vanguard forces of the Royal Army of Aras. It seemed that the Kingdom of Aras would take by force the Republic to be able to get to lands of the Silver Covenants, instead of going by boat, or asking for right of passage, as the Council thought would happen.
 
-The city was taken by treachery and deception, the general using a visit to the city to infiltrate its agents at key points of the city and sabotaging the militia of the city before quickly overwhelming the defences in an orchestrated attack. Although it was not known at the time, terrible acts were performed during the taking of Vanne. Its people used in grueling spectacles and senseless violence, debasing acts that stripped of humanity both the victims and the torturers. These acts were
-performed for days before the vanguard moved on and let the rest of the Royal Army hold the city and advance. The worst things happened in the city for the rest of the war.
+The city was taken by treachery and deception, the general using a visit to the city to infiltrate its agents at key points of the city and sabotaging the militia of the city before quickly overwhelming the defences in an orchestrated attack. Although it was not known at the time, terrible acts were performed during the taking of Vanne. Its people used in gruelling spectacles and senseless violence, debasing acts that stripped of humanity both the victims and the torturers. These acts were performed for days before the vanguard moved on and let the rest of the Royal Army hold the city and advance. Worst things happened in the city for the rest of the war.
 
-
-
+The Republican Council saw what terrible situation they had put the nation in. They could see that unless they convinced the two adversaries to stop the war, Meredia itself would become a three way battleground, with disastrous results for the nation and its citizens.

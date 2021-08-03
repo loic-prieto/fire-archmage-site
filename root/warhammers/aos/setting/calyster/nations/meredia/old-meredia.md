@@ -68,21 +68,21 @@ During the war of the wastes, the town served as the staging base for the Covena
 
 ## The war of the wastes
 
-### Garish's Blunder
+### Garise's Blunder
 
 Throughout the centuries, the cities of the republic banded together to defend themselves against the encroaching of its neighbours. Although each city had its own ideology, they worked and prospered together. The republican armies would be enough to deter any of surrounding kingdoms from invading their lands, the cost of war being too high to make it worth it. In addition to this deterrence, the republic developed an active diplomacy force to contain, subvert and trade away the aggressiveness of its potential enemies.
 
 For a long time, this strategy served them well. 
 
-Garish was a man of resources and contacts, a scion of one of the most powerful Houses in Roda. A high official of the Republic, serving as a diplomat for Meredia in Zyjin. Alarmed by a build-up of the Kingdom's military forces, and what its contacts hinted to be the preparation for an invasion to the republic, the diplomat prepared a plan that would redirect those war preparations and resources or even stop them altogether.
+Garise was a man of resources and contacts, a scion of one of the most powerful Houses in Roda. A high official of the Republic, serving as a diplomat for Meredia in Zyjin. Alarmed by a build-up of the Kingdom's military forces, and what its contacts hinted to be the preparation for an invasion to the republic, the diplomat prepared a plan that would redirect those war preparations and resources or even stop them altogether.
 
 He prepared a grand espionage operation, making use of a vast network of informants and undercover agents inside the court to provide false information to High King Vetzjira about a potential attack from the Silver Covenants to the kingdom. Tensions had been running high between the two countries for decades now, and the thread would be credible enough that the king would divert its resources into preparing a defence of its realm rather than attacking the republic. And, in turn, it could use this preparation to warn the Covenant Lords of a potential attack, which would make them prepare for it, which would reinforce the information coming to the High King. Then the republic could offer itself as a peace broker, perhaps even bolstering trade between the two enemies as a way to ensure that peace, and the republic would be right in the middle of this trade.
 A risky plan but sound, in the mind of the diplomat, to both stave off the kingdom's aggression and increase the wealth of the republic.
 
 During the last decades, the monarch of Aras and the Magi Lords of the Covenants had been bolstering their military might and resources, sensing danger from the nations of the north. Centuries of peace and prosperity were coming to an end, a great struggle prophesied by seers, oracles and savants of the continent of Calyster, although no one could say the reason for it. 
 As happens when powerful rulers have an army bigger than it needs to be and there are no conflicts, this arming race shaped the ambitions and desires of the two nations, who now were looking for expansion, confident of their strength.
-Garish's spy craft incited the two nations to declare war on each other, each of them itching for an opportunity to gain glory, territory and crush a bitter rival. The diplomat's gambit had failed although not completely, since at least the resources of the two neighbours would be put towards each other instead of against Meredia, and perhaps there was an opportunity to provide weapons and provisions to both sides. 
-Garish was commended by the council of the republic for handling the situation successfully and in benefit of the Republic.
+Garise's spy craft incited the two nations to declare war on each other, each of them itching for an opportunity to gain glory, territory and crush a bitter rival. The diplomat's gambit had failed although not completely, since at least the resources of the two neighbours would be put towards each other instead of against Meredia, and perhaps there was an opportunity to provide weapons and provisions to both sides. 
+Garise was commended by the council of the republic for handling the situation successfully and in benefit of the Republic.
 
 ### The Kingdom of Aras advances
 
@@ -90,4 +90,6 @@ It was with complete horror that the Republic received the news that the city of
 
 The city was taken by treachery and deception, the general using a visit to the city to infiltrate its agents at key points of the city and sabotaging the militia of the city before quickly overwhelming the defences in an orchestrated attack. Although it was not known at the time, terrible acts were performed during the taking of Vanne. Its people used in gruelling spectacles and senseless violence, debasing acts that stripped of humanity both the victims and the torturers. These acts were performed for days before the vanguard moved on and let the rest of the Royal Army hold the city and advance. Worst things happened in the city for the rest of the war.
 
-The Republican Council saw what terrible situation they had put the nation in. They could see that unless they convinced the two adversaries to stop the war, Meredia itself would become a three way battleground, with disastrous results for the nation and its citizens.
+The Republican Council saw what terrible situation they had put the nation in. They could see that unless they convinced the two adversaries to stop the war, Meredia itself would become a three way battleground, with disastrous results for the nation and its citizens. Garise, the diplomat that had started the war, volunteered to try to appease the Kingdom of Aras, by trying to negotiate with the High King himself. 
+
+Garise went to the frontier, with a small escort force. A royal army patrol stopped the retinue while near Vanne, the escort slaughtered and the diplomat bound in barbed chains, made to walk the road to the city under the merciless sun, naked. After several days of agony, the diplomat was shown to Sarin von Krast in his tent. On the way, he would pass indescribable horrors that the troops, left loose on populace, had inflicted the citizens of Vanne. The prideful houses, banners, gardens and canals, tainted with men, women and children nailed to walls, their flesh torn, dying or dead.
